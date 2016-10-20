@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="cd_blue_light">#E5F0F7</color>
+    <color name="background_color_light_blue">#cce0ee</color>
+    <color name="primary_color_blue">#0065AE</color>
+    <color name="primary_text_color_list">#CC000000</color>
+    <color name="cd_blue">#0068AC</color>
+    <color name="cd_blue_mit_alpha">#5a0068AC</color>
+    <color name="black">#000000</color>
+    <color name="cd_light_gray">#DDDDDD</color>
+    <color name="cd_lighter_gray">#EEEEEE</color>
+    <color name="cd_footer_gray">#ededed</color>
+    <color name="seperator_color_group_divider">#525a60</color>
+    <color name="seperator_color_child_divider">#99525a60</color>
+
+</resources>
+
